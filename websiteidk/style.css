@@ -5,6 +5,7 @@ img {
 nav {
   border-style: double;
   border-color: rgb(5, 7, 49);
+  padding-left: 20px;
 }
 .navbar-brand:hover {
   text-decoration: underline;
@@ -15,4 +16,37 @@ nav {
 }
 form {
   margin-left: 850px;
+}
+
+.info {
+  background-color: rgb(42, 3, 37);
+  color: rgb(251, 199, 136);
+  padding-top: 75px;
+  margin-left: 50px;
+  display: flex;
+}
+
+body {
+  background-color: rgb(42, 3, 37);
+}
+
+.logo {
+  width: 80px;
+  height: 60px;
+}
+
+.quote {
+  margin-left: 500px;
+  margin-right: 100px;
+}
+
+.neil {
+  height: 500px;
+  width: 400px;
+  border-style: groove;
+  border-color: rgb(251, 199, 136);
+}
+
+p {
+  font-size: larger;
 }
