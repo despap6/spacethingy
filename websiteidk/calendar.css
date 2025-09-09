@@ -1,0 +1,22 @@
+.topimg {
+  height: 100px;
+  width: 1550px;
+  border-style: groove;
+  border-color: rgb(255, 251, 236);
+}
+.carousel-inner {
+  height: 506px;
+  width: 900px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-style: groove;
+  border-color: rgb(255, 251, 236);
+}
+
+#carouselExampleCaptions {
+  padding-top: 100px;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+}

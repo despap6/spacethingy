@@ -22,7 +22,9 @@ form {
   background-color: rgb(42, 3, 37);
   color: rgb(251, 199, 136);
   padding-top: 75px;
-  margin-left: 50px;
+  border-color: rgb(251, 199, 136);
+  border-style: outset;
+
   display: flex;
 }
 
@@ -49,4 +51,20 @@ body {
 
 p {
   font-size: larger;
+  font-weight: 500;
+}
+
+.contact {
+  background-color: rgb(16, 16, 36);
+  color: rgb(251, 199, 136);
+  border-color: rgb(251, 199, 136);
+  border-style: outset;
+}
+
+.letters {
+  margin-left: 50px;
+}
+
+.quote2 {
+  margin-left: 100px;
 }
