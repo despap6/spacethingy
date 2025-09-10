@@ -19,7 +19,6 @@ nav {
   border-style: double;
   border-color: rgb(5, 7, 49);
   padding-left: 20px;
-  height: 75px;
 }
 .navbar-brand:hover {
   text-decoration: underline;
