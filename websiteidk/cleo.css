@@ -1,0 +1,167 @@
+#desp {
+  margin-left: 150px;
+}
+body {
+  background-color: rgb(4, 4, 49);
+}
+
+.planets {
+  border-style: solid;
+  border-color: rgba(213, 0, 128, 0.203);
+  font-size: larger;
+  color: rgb(206, 189, 223);
+}
+
+img {
+  width: 1600px;
+  height: 100px;
+}
+
+.moons {
+  display: flex;
+}
+
+.nept-row {
+  position: relative;
+}
+
+.card {
+  position: absolute;
+  right: 10px;
+  top: 30px;
+}
+
+.planets2 {
+  color: antiquewhite;
+  align-items: center;
+}
+
+.pl1 {
+  display: flex;
+}
+
+.pl2 {
+  display: flex;
+}
+
+.Mercury {
+  background-color: #a9a9a9;
+  border-style: groove;
+  border-color: rgb(236, 226, 196);
+  border-radius: 10%;
+  padding-top: 35;
+  padding: 30;
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+}
+
+.Venus {
+  background-color: #e3b778;
+  border-style: groove;
+  border-color: rgb(236, 226, 196);
+  border-radius: 10%;
+  padding-top: 35;
+  padding: 30;
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+}
+
+.Mars {
+  background-color: #b22222;
+  border-style: groove;
+  border-color: rgb(236, 226, 196);
+  border-radius: 10%;
+  padding-top: 35;
+  padding: 30;
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+}
+
+.jupiter {
+  background-color: #d9a066;
+  border-style: groove;
+  border-color: rgb(236, 226, 196);
+  border-radius: 10%;
+  padding-top: 35;
+  padding: 30;
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+}
+
+.saturn {
+  background-color: #e6c177;
+  border-style: groove;
+  border-color: rgb(236, 226, 196);
+  border-radius: 10%;
+  padding-top: 35;
+
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+}
+
+.uranus {
+  background-color: #7feaff;
+  border-style: groove;
+  border-color: rgb(236, 226, 196);
+  border-radius: 10%;
+  padding-top: 35;
+  padding: 30;
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+}
+
+.neptune {
+  background-color: #4169e1;
+  border-style: groove;
+  border-color: rgb(236, 226, 196);
+  border-radius: 10%;
+  padding-top: 35;
+  padding: 30;
+
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+}
+.header {
+  background-color: #420c4b;
+  height: 100px;
+  border-color: rgb(250, 199, 136);
+  border-style: groove;
+  color: #ffffffe9;
+}
+h1 {
+  padding-top: 25px;
+  margin-left: 350px;
+}
+img {
+  height: 400px;
+  width: 300px;
+  border: rgb(236, 226, 196);
+  border-style: groove;
+  border-radius: 10px;
+}
+nav {
+  border-style: double;
+  border-color: rgb(5, 7, 49);
+  padding-left: 20px;
+}
+.navbar-brand:hover {
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+form {
+  margin-left: 850px;
+}
+.logo {
+  width: 80px;
+  height: 60px;
+}
